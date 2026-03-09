@@ -32,14 +32,7 @@ Alle Funktionen sind über ein einfaches Konsolenmenü erreichbar.
 
 # Projektstruktur
 
-
-hotline-projekt/
-│
-main.py # Startpunkt des Programms
-database.py # Laden und Speichern der Datenbank
-hotline_service.py # Logik der Hotline-Funktionen
-datenbank.json # gespeicherte Fragen und Lösungen
-README.md
+<img alt="project_structure" src="https://github.com/user-attachments/assets/532ae30a-cff0-4bbf-af05-3d337c0a9460" />
 
 
 ---
