@@ -35,11 +35,11 @@ Alle Funktionen sind über ein einfaches Konsolenmenü erreichbar.
 
 hotline-projekt/
 │
-├── main.py # Startpunkt des Programms
-├── database.py # Laden und Speichern der Datenbank
-├── hotline_service.py # Logik der Hotline-Funktionen
-├── datenbank.json # gespeicherte Fragen und Lösungen
-└── README.md
+main.py # Startpunkt des Programms
+database.py # Laden und Speichern der Datenbank
+hotline_service.py # Logik der Hotline-Funktionen
+datenbank.json # gespeicherte Fragen und Lösungen
+README.md
 
 
 ---
