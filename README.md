@@ -1,4 +1,4 @@
-📞 Hotline-Wissensdatenbank (Python)
+Hotline-Wissensdatenbank (Python)
 🏫 Schulprojekt 2025 – Agile Softwareentwicklung
 
 Team: G2
@@ -41,3 +41,4 @@ Datenspeicherung: Datei-basiert (z. B. JSON oder CSV)
 Versionsverwaltung: Git / GitHub
 
 Vorgehensmodell: Agile Softwareentwicklung mit 3 Sprints
+
