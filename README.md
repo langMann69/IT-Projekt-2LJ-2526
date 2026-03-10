@@ -2,8 +2,6 @@
 <img width="6912" height="3456" alt="Design ohne Titel (2)" src="https://github.com/user-attachments/assets/3297c43e-ed86-4339-b906-b7ab9916dbc6" />
 
 
-
-
 # ThinkVault eine Hotline-Wissensdatenbank
 
 Dieses Projekt ist ein einfaches Konsolenprogramm in Python zur Verwaltung einer Wissensdatenbank für Hotline-Mitarbeiter.
@@ -50,55 +48,62 @@ Alle Funktionen sind über ein einfaches Konsolenmenü erreichbar.
 
 Python Version prüfen:
 
-
+```bash  
 python3 --version
-
+````
 
 ---
 
 # Projekt starten
 
 1. Repository klonen
+```bash  
+git clone https://github.com/langMann69/IT-Projekt-2LJ-2526.git
+````
 
-
-git clone <repository-url>
 
 
 2. In den Projektordner wechseln
-
-
+```bash  
 cd hotline-projekt
+````
+
+
 
 
 3. Programm starten
 
 macOS / Linux:
-
-
+```bash  
 python3 main.py
+````
+
+
 
 
 Windows:
-
-
+```bash  
 python main.py
+````
+
+
 
 
 ---
 
 # Bedienung des Programms
 
-Nach dem Start erscheint ein Menü:
+Nach dem Start erscheint ein Menü:<br> 
 
-========================================
-Hotline-Wissensdatenbank
-
-1 - Neue Frage speichern
-2 - Frage suchen
-3 - Frage bearbeiten
-4 - Frage löschen
-5 - Alle Fragen anzeigen
-0 - Programm beenden
+======================================== <br> 
+Hotline-Wissensdatenbank <br> 
+======================================== <br> 
+1 - Neue Frage speichern <br> 
+2 - Frage suchen <br> 
+3 - Frage bearbeiten <br> 
+4 - Frage löschen <br> 
+5 - Alle Fragen anzeigen <br> 
+0 - Programm beenden <br> 
 
 
 ### Neue Frage speichern
