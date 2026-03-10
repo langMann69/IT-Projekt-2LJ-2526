@@ -15,6 +15,7 @@ Das Programm ist plattformunabhängig und läuft sowohl auf **Windows** als auch
 ---
 
 
+
 # Funktionen
 
 Das Programm erfüllt folgende User Stories:
