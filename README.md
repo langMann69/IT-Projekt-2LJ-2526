@@ -1,4 +1,10 @@
-# Hotline-Wissensdatenbank
+
+<img width="6912" height="3456" alt="Design ohne Titel (2)" src="https://github.com/user-attachments/assets/3297c43e-ed86-4339-b906-b7ab9916dbc6" />
+
+
+
+
+# ThinkVault eine Hotline-Wissensdatenbank
 
 Dieses Projekt ist ein einfaches Konsolenprogramm in Python zur Verwaltung einer Wissensdatenbank für Hotline-Mitarbeiter.
 
