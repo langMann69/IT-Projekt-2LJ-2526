@@ -1,5 +1,4 @@
-
-<img width="6912" height="3456" alt="Design ohne Titel (4)" src="https://github.com/user-attachments/assets/76fd2803-2520-4aca-ac81-88c33cf5bd4a" />
+![Animated_Logo_GIF_Creation-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4cfc53cb-2e93-4878-b432-4fd08c3396cf)
 
 
 # SunfishDesk eine Hotline-Wissensdatenbank
