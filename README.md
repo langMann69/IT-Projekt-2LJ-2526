@@ -1,8 +1,8 @@
 
-<img width="6912" height="3456" alt="Design ohne Titel (2)" src="https://github.com/user-attachments/assets/3297c43e-ed86-4339-b906-b7ab9916dbc6" />
+<img width="6912" height="3456" alt="Design ohne Titel (4)" src="https://github.com/user-attachments/assets/76fd2803-2520-4aca-ac81-88c33cf5bd4a" />
 
 
-# ThinkVault eine Hotline-Wissensdatenbank
+# SunfishDesk eine Hotline-Wissensdatenbank
 
 Dieses Projekt ist ein einfaches Konsolenprogramm in Python zur Verwaltung einer Wissensdatenbank für Hotline-Mitarbeiter.
 
