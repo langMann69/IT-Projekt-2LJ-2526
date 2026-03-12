@@ -12,6 +12,9 @@ Die Daten werden in einer JSON-Datei gespeichert.
 Das Programm ist plattformunabhängig und läuft sowohl auf **Windows** als auch auf **macOS**.
 
 
+
+
+
 ---
 
 
