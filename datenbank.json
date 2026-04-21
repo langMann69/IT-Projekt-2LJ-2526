@@ -1,22 +1,102 @@
 [
-    {"id": 1, "frage": "Drucker druckt nicht", "loesung": "Überprüfen Sie, ob der Drucker eingeschaltet ist und installieren Sie den Treiber neu."},
-    {"id": 2, "frage": "PC startet nicht", "loesung": "Überprüfen Sie das Netzteil und ob das Stromkabel richtig angeschlossen ist."},
-    {"id": 3, "frage": "Internet funktioniert nicht", "loesung": "Router neu starten und Netzwerkkabel überprüfen."},
-    {"id": 4, "frage": "Passwort vergessen", "loesung": "Passwort über die Passwort-zurücksetzen-Funktion ändern."},
-    {"id": 5, "frage": "Programm startet nicht", "loesung": "Programm neu installieren oder PC neu starten."},
-    {"id": 6, "frage": "Bildschirm bleibt schwarz", "loesung": "Monitoranschluss und Stromkabel überprüfen."},
-    {"id": 7, "frage": "PC ist sehr langsam", "loesung": "Autostartprogramme reduzieren und Virenscan durchführen."},
-    {"id": 8, "frage": "Datei lässt sich nicht öffnen", "loesung": "Überprüfen Sie, ob das passende Programm installiert ist."},
-    {"id": 9, "frage": "E-Mail kann nicht gesendet werden", "loesung": "SMTP-Einstellungen prüfen und Internetverbindung testen."},
-    {"id": 10, "frage": "Tastatur funktioniert nicht", "loesung": "USB-Verbindung prüfen oder Tastatur neu anschließen."},
-    {"id": 11, "frage": "Maus reagiert nicht", "loesung": "USB-Anschluss wechseln oder Batterien prüfen."},
-    {"id": 12, "frage": "Softwareupdate schlägt fehl", "loesung": "Update erneut starten und Internetverbindung prüfen."},
-    {"id": 13, "frage": "Datei wurde gelöscht", "loesung": "Papierkorb prüfen oder Wiederherstellungssoftware verwenden."},
-    {"id": 14, "frage": "Bluetooth funktioniert nicht", "loesung": "Bluetooth deaktivieren und wieder aktivieren."},
-    {"id": 15, "frage": "WLAN verbindet sich nicht", "loesung": "WLAN aus- und wieder einschalten oder Netzwerk vergessen und neu verbinden."},
-    {"id": 16, "frage": "Laptop wird sehr heiß", "loesung": "Lüftungsschlitze reinigen und auf feste Unterlage stellen."},
-    {"id": 17, "frage": "USB-Gerät wird nicht erkannt", "loesung": "Treiber installieren oder anderen USB-Port verwenden."},
-    {"id": 18, "frage": "Audio funktioniert nicht", "loesung": "Lautsprecher anschließen und Audioeinstellungen prüfen."},
-    {"id": 19, "frage": "Monitor flackert", "loesung": "Grafiktreiber aktualisieren und Kabel überprüfen."},
-    {"id": 20, "frage": "Programm stürzt ständig ab", "loesung": "Programm aktualisieren oder neu installieren."}
-  ]
+    {
+        "id": 1,
+        "frage": "Drucker druckt nicht",
+        "loesung": "Überprüfen Sie, ob der Drucker eingeschaltet ist und installieren Sie den Treiber neu."
+    },
+    {
+        "id": 2,
+        "frage": "PC startet nicht",
+        "loesung": "Überprüfen Sie das Netzteil und ob das Stromkabel richtig angeschlossen ist."
+    },
+    {
+        "id": 3,
+        "frage": "Internet funktioniert nicht",
+        "loesung": "Router neu starten und Netzwerkkabel überprüfen."
+    },
+    {
+        "id": 4,
+        "frage": "Passwort vergessen",
+        "loesung": "Passwort über die Passwort-zurücksetzen-Funktion ändern."
+    },
+    {
+        "id": 5,
+        "frage": "Programm startet nicht",
+        "loesung": "Programm neu installieren oder PC neu starten."
+    },
+    {
+        "id": 6,
+        "frage": "Bildschirm bleibt schwarz",
+        "loesung": "Monitoranschluss und Stromkabel überprüfen."
+    },
+    {
+        "id": 7,
+        "frage": "PC ist sehr langsam",
+        "loesung": "Autostartprogramme reduzieren und Virenscan durchführen."
+    },
+    {
+        "id": 8,
+        "frage": "Datei lässt sich nicht öffnen",
+        "loesung": "Überprüfen Sie, ob das passende Programm installiert ist."
+    },
+    {
+        "id": 9,
+        "frage": "E-Mail kann nicht gesendet werden",
+        "loesung": "SMTP-Einstellungen prüfen und Internetverbindung testen."
+    },
+    {
+        "id": 10,
+        "frage": "Tastatur funktioniert nicht",
+        "loesung": "USB-Verbindung prüfen oder Tastatur neu anschließen."
+    },
+    {
+        "id": 11,
+        "frage": "Maus reagiert nicht",
+        "loesung": "USB-Anschluss wechseln oder Batterien prüfen."
+    },
+    {
+        "id": 12,
+        "frage": "Softwareupdate schlägt fehl",
+        "loesung": "Update erneut starten und Internetverbindung prüfen."
+    },
+    {
+        "id": 13,
+        "frage": "Datei wurde gelöscht",
+        "loesung": "Papierkorb prüfen oder Wiederherstellungssoftware verwenden."
+    },
+    {
+        "id": 14,
+        "frage": "Bluetooth funktioniert nicht",
+        "loesung": "Bluetooth deaktivieren und wieder aktivieren."
+    },
+    {
+        "id": 15,
+        "frage": "WLAN verbindet sich nicht",
+        "loesung": "WLAN aus- und wieder einschalten oder Netzwerk vergessen und neu verbinden."
+    },
+    {
+        "id": 16,
+        "frage": "Laptop wird sehr heiß",
+        "loesung": "Lüftungsschlitze reinigen und auf feste Unterlage stellen."
+    },
+    {
+        "id": 17,
+        "frage": "USB-Gerät wird nicht erkannt",
+        "loesung": "Treiber installieren oder anderen USB-Port verwenden."
+    },
+    {
+        "id": 18,
+        "frage": "Audio funktioniert nicht",
+        "loesung": "Lautsprecher anschließen und Audioeinstellungen prüfen."
+    },
+    {
+        "id": 19,
+        "frage": "Monitor flackert",
+        "loesung": "Grafiktreiber aktualisieren und Kabel überprüfen."
+    },
+    {
+        "id": 20,
+        "frage": "Programm stürzt ständig ab",
+        "loesung": "Programm aktualisieren oder neu installieren."
+    }
+]
