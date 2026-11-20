@@ -2,7 +2,7 @@
     {
         "id": 1,
         "frage": "Drucker druckt nicht",
-        "loesung": "Überprüfen Sie, ob der Drucker eingeschaltet ist und installieren Sie den Treiber neu."
+        "loesung": "NEUSTART"
     },
     {
         "id": 2,
@@ -98,5 +98,10 @@
         "id": 20,
         "frage": "Programm stürzt ständig ab",
         "loesung": "Programm aktualisieren oder neu installieren."
+    },
+    {
+        "id": 21,
+        "frage": "Wieso ist Lars sein Flugzeug so scheiße",
+        "loesung": "weils von lars ist"
     }
 ]
